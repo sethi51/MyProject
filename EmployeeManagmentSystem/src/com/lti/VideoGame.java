@@ -9,7 +9,7 @@ public class VideoGame {
 		
 	}
 	public void hello1(int a){
-		
+		System.out.println("Change");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
